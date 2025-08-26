@@ -1,0 +1,14 @@
+# Node / Next
+node_modules/
+.next/
+out/
+
+# Laravel / PHP
+vendor/
+storage/
+.env
+.env.*
+
+# Docker
+*.pid
+*.log
